@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MultiPong</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="play_game">Play</string>
+    <string name="settings_game">Settings</string>
+</resources>
